@@ -630,3 +630,5 @@ C:\Users\HP\Desktop\Kamran\Programming\.NET Core - API\Blazor\BlazorAPIClient\ob
 C:\Users\HP\Desktop\Kamran\Programming\.NET Core - API\Blazor\BlazorAPIClient\obj\Debug\net5.0\refint\BlazorAPIClient.dll
 C:\Users\HP\Desktop\Kamran\Programming\.NET Core - API\Blazor\BlazorAPIClient\obj\Debug\net5.0\BlazorAPIClient.pdb
 C:\Users\HP\Desktop\Kamran\Programming\.NET Core - API\Blazor\BlazorAPIClient\obj\Debug\net5.0\ref\BlazorAPIClient.dll
+C:\Users\HP\Desktop\Kamran\Programming\.NET Core - API\Blazor\BlazorAPIClient\obj\Debug\net5.0\RazorDeclaration\Pages\Base64Converter.razor.g.cs
+C:\Users\HP\Desktop\Kamran\Programming\.NET Core - API\Blazor\BlazorAPIClient\obj\Debug\net5.0\Razor\Pages\Base64Converter.razor.g.cs

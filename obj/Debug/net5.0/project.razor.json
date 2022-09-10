@@ -41,39 +41,6 @@
         }
       },
       {
-        "HashCode": -1264052225,
-        "Kind": "Components.Component",
-        "Name": "BlazorAPIClient.Pages.Counter",
-        "AssemblyName": "BlazorAPIClient",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorAPIClient.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": 1549161527,
-        "Kind": "Components.Component",
-        "Name": "BlazorAPIClient.Pages.Counter",
-        "AssemblyName": "BlazorAPIClient",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorAPIClient.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorAPIClient.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1104032896,
         "Kind": "Components.Component",
         "Name": "BlazorAPIClient.Pages.FetchData",
@@ -136,6 +103,72 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorAPIClient.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1264052225,
+        "Kind": "Components.Component",
+        "Name": "BlazorAPIClient.Pages.Counter",
+        "AssemblyName": "BlazorAPIClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorAPIClient.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": 1549161527,
+        "Kind": "Components.Component",
+        "Name": "BlazorAPIClient.Pages.Counter",
+        "AssemblyName": "BlazorAPIClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorAPIClient.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorAPIClient.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1199063764,
+        "Kind": "Components.Component",
+        "Name": "BlazorAPIClient.Pages.Base64Converter",
+        "AssemblyName": "BlazorAPIClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Base64Converter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorAPIClient.Pages.Base64Converter"
+        }
+      },
+      {
+        "HashCode": 2034932590,
+        "Kind": "Components.Component",
+        "Name": "BlazorAPIClient.Pages.Base64Converter",
+        "AssemblyName": "BlazorAPIClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorAPIClient.Pages.Base64Converter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorAPIClient.Pages.Base64Converter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13026,6 +13059,11 @@
     {
       "FilePath": "c:\\Users\\HP\\Desktop\\Kamran\\Programming\\.NET Core - API\\Blazor\\BlazorAPIClient\\Pages\\FetchData.razor",
       "TargetPath": "Pages\\FetchData.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\HP\\Desktop\\Kamran\\Programming\\.NET Core - API\\Blazor\\BlazorAPIClient\\Pages\\Base64Converter.razor",
+      "TargetPath": "Pages\\Base64Converter.razor",
       "FileKind": "component"
     },
     {
