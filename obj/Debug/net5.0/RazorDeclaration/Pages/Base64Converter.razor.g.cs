@@ -82,6 +82,13 @@ using BlazorAPIClient.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 2 "C:\Users\HP\Desktop\Kamran\Programming\.NET Core - API\Blazor\BlazorAPIClient\Pages\Base64Converter.razor"
+using System.Text;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/base64converter")]
     public partial class Base64Converter : Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -90,6 +97,29 @@ using BlazorAPIClient.Shared;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 26 "C:\Users\HP\Desktop\Kamran\Programming\.NET Core - API\Blazor\BlazorAPIClient\Pages\Base64Converter.razor"
+       
+    public string NonBase64Body { get; set; }
+    public string Base64Body { get; set; }
+
+    private void ConvertToBase64()
+    {
+        byte[] plainTextByte = Encoding.UTF8.GetBytes(NonBase64Body);
+        Base64Body = Convert.ToBase64String(plainTextByte);
+    }
+
+    private void ConvertFromBase64()
+    {
+        byte[] base64EncodedBytes = Convert.FromBase64String(Base64Body);
+        NonBase64Body = Encoding.UTF8.GetString(base64EncodedBytes);
+    }
+
+
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591
