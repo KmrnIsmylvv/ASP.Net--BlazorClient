@@ -83,7 +83,7 @@ using BlazorAPIClient.Shared;
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "C:\Users\HP\Desktop\Kamran\Programming\.NET Core - API\Blazor\BlazorAPIClient\Pages\Base64Converter.razor"
+#line 11 "C:\Users\HP\Desktop\Kamran\Programming\.NET Core - API\Blazor\BlazorAPIClient\_Imports.razor"
 using System.Text;
 
 #line default
@@ -98,7 +98,7 @@ using System.Text;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 26 "C:\Users\HP\Desktop\Kamran\Programming\.NET Core - API\Blazor\BlazorAPIClient\Pages\Base64Converter.razor"
+#line 25 "C:\Users\HP\Desktop\Kamran\Programming\.NET Core - API\Blazor\BlazorAPIClient\Pages\Base64Converter.razor"
        
     public string NonBase64Body { get; set; }
     public string Base64Body { get; set; }
