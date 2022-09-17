@@ -89,6 +89,13 @@ using System.Text;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 12 "C:\Users\HP\Desktop\Kamran\Programming\.NET Core - API\Blazor\BlazorAPIClient\_Imports.razor"
+using Dtos;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/fetchdata")]
     public partial class FetchData : Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -98,24 +105,14 @@ using System.Text;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 37 "C:\Users\HP\Desktop\Kamran\Programming\.NET Core - API\Blazor\BlazorAPIClient\Pages\FetchData.razor"
+#line 38 "C:\Users\HP\Desktop\Kamran\Programming\.NET Core - API\Blazor\BlazorAPIClient\Pages\FetchData.razor"
        
-    private WeatherForecast[] forecasts;
+
+    private LaunchDto[] launches;
 
     protected override async Task OnInitializedAsync()
     {
-        forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("sample-data/weather.json");
-    }
-
-    public class WeatherForecast
-    {
-        public DateTime Date { get; set; }
-
-        public int TemperatureC { get; set; }
-
-        public string Summary { get; set; }
-
-        public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
+        launches = await Http.GetFromJsonAsync<LaunchDto[]>("https://api.spacex.land/rest/launches/");
     }
 
 #line default

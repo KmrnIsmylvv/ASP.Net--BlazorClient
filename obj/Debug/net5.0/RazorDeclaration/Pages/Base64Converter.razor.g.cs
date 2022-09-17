@@ -89,6 +89,13 @@ using System.Text;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 12 "C:\Users\HP\Desktop\Kamran\Programming\.NET Core - API\Blazor\BlazorAPIClient\_Imports.razor"
+using Dtos;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/base64converter")]
     public partial class Base64Converter : Microsoft.AspNetCore.Components.ComponentBase
     {
