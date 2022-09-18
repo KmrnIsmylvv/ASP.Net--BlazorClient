@@ -104,21 +104,6 @@ using Dtos;
         {
         }
         #pragma warning restore 1998
-#nullable restore
-#line 38 "C:\Users\HP\Desktop\Kamran\Programming\.NET Core - API\Blazor\BlazorAPIClient\Pages\FetchData.razor"
-       
-
-    private LaunchDto[] launches;
-
-    protected override async Task OnInitializedAsync()
-    {
-        launches = await Http.GetFromJsonAsync<LaunchDto[]>("https://api.spacex.land/rest/launches/");
-    }
-
-#line default
-#line hidden
-#nullable disable
-        [global::Microsoft.AspNetCore.Components.InjectAttribute] private HttpClient Http { get; set; }
     }
 }
 #pragma warning restore 1591
