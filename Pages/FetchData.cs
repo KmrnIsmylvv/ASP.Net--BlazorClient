@@ -14,7 +14,7 @@ namespace BlazorAPIClient.Pages
 
         protected override async Task OnInitializedAsync()
         {
-            launches = await Http.GetFromJsonAsync<LaunchDto[]>("https://api.spacex.land/rest/launches/");
+            launches = await Http.GetFromJsonAsync<LaunchDto[]>("/rest/launches/");
         }
     }
 }
