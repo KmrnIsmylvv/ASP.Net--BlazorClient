@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G/EHoOEzg7/5KM6Kqigb2oYyDTUqc9AzUrmrjPZ7yMefWq5flMXAc9/w/zczV1ej0jU2ZGeOkA222s6ch15OOQ==",
+  "dgSpecHash": "efVLRw+w4VyxKI43cr/nudoLjDKhDS1pxQ0/Jv0HogGcidK9MZUkqcWKepGC/J2Za0Rx/NQr3P3Up2eOzL5Ikg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\Kamran\\Programming\\.NET Core - API\\Blazor\\BlazorAPIClient\\BlazorAPIClient.csproj",
+  "projectFilePath": "c:\\Users\\HP\\Desktop\\Kamran\\Programming\\.NET Core - API\\Blazor\\BlazorAPIClient\\BlazorAPIClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.16\\microsoft.aspnetcore.authorization.5.0.16.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.16\\microsoft.aspnetcore.components.5.0.16.nupkg.sha512",
@@ -22,6 +22,7 @@
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.http\\5.0.0\\microsoft.extensions.http.5.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
