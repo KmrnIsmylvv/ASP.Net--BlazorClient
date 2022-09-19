@@ -173,6 +173,72 @@
         }
       },
       {
+        "HashCode": -640704196,
+        "Kind": "Components.Component",
+        "Name": "BlazorAPIClient.Pages.Launches",
+        "AssemblyName": "BlazorAPIClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Launches"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorAPIClient.Pages.Launches"
+        }
+      },
+      {
+        "HashCode": -1019433918,
+        "Kind": "Components.Component",
+        "Name": "BlazorAPIClient.Pages.Launches",
+        "AssemblyName": "BlazorAPIClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorAPIClient.Pages.Launches"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorAPIClient.Pages.Launches",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -845816565,
+        "Kind": "Components.Component",
+        "Name": "BlazorAPIClient.Shared.NavMenu",
+        "AssemblyName": "BlazorAPIClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorAPIClient.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": -563909098,
+        "Kind": "Components.Component",
+        "Name": "BlazorAPIClient.Shared.NavMenu",
+        "AssemblyName": "BlazorAPIClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorAPIClient.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorAPIClient.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 381391588,
         "Kind": "Components.Component",
         "Name": "BlazorAPIClient.Shared.SurveyPrompt",
@@ -318,39 +384,6 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "BlazorAPIClient.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -845816565,
-        "Kind": "Components.Component",
-        "Name": "BlazorAPIClient.Shared.NavMenu",
-        "AssemblyName": "BlazorAPIClient",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorAPIClient.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": -563909098,
-        "Kind": "Components.Component",
-        "Name": "BlazorAPIClient.Shared.NavMenu",
-        "AssemblyName": "BlazorAPIClient",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorAPIClient.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorAPIClient.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13041,6 +13074,11 @@
   },
   "RootNamespace": "BlazorAPIClient",
   "Documents": [
+    {
+      "FilePath": "c:\\Users\\HP\\Desktop\\Kamran\\Programming\\.NET Core - API\\Blazor\\BlazorAPIClient\\Pages\\Launches.razor",
+      "TargetPath": "Pages\\Launches.razor",
+      "FileKind": "component"
+    },
     {
       "FilePath": "c:\\Users\\HP\\Desktop\\Kamran\\Programming\\.NET Core - API\\Blazor\\BlazorAPIClient\\App.razor",
       "TargetPath": "App.razor",
